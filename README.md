@@ -1,6 +1,7 @@
 # Waste Classification System
 
 A machine learning system that classifies waste into **Organic** and **Recyclable** categories using computer vision.
+Trained on this dataset: https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
 ## 🗂️ Project Structure
 
